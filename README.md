@@ -23,7 +23,7 @@ O cliente MQTT está simulando a mensagem que foi desenvolvida pelo Python no si
 
 Teste Presencial :
 
-Para finalizarmos o projeto , no dia 9/11 montamos o protótipo em aula para a entrega da última Sprint , todos os arquivos foram  anexados neste projeto em "teste_presencial" lá você encontrará todos os arquivos necessários para a reprodução do protótipo , componentes ultilizados : 
+Para finalizarmos o projeto , no dia 9/11 montamos o protótipo em aula para a entrega da última Sprint , todos os arquivos foram  anexados neste projeto em "teste_presencial" lá você encontrará todos os arquivos necessários para a reprodução do protótipo , componentes ultilizados: 
 
 - Arduino Uno
 - Fios Jumper

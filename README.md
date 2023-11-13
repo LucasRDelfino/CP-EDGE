@@ -20,3 +20,16 @@ Neste Repositório está anexado o circuito do simulIDLE , flow do node-red e c�
 Objetivo de Projeto : 
 
 O cliente MQTT está simulando a mensagem que foi desenvolvida pelo Python no sistema de identificação de armas , a mensagem foi passada para o tago que no projeto está simulando o servidor da policia e recebe a mensagem "Arma encontrada" , o arduino também receberá a mensagem e ligará o led , buzzer e lcd que na simulação estariam alertando a população de um possível assalto , além do projeto ter um dashboard que monitora os assaltos com a "function contador" para que se for implementado outros faróis, termos um mapeamento de qual região ou farol específico tem o maior número de assaltos , essa informação poderia ser passada para polícia e ter um maior número de policiamento na região.
+
+Teste Presencial :
+
+Para finalizarmos o projeto , no dia 9/11 montamos o protótipo em aula para a entrega da última Sprint , todos os arquivos foram  anexados neste projeto em "teste_presencial" lá você encontrará todos os arquivos necessários para a reprodução do protótipo , componentes ultilizados : 
+
+- Arduino Uno
+- Fios Jumper
+- Display LCD
+- Led Vermelho
+- Buzzer
+- Potenciômetro
+
+Nos arquivos disponíveis no projeto está a foto do circuito, flow ultilizado no Node-RED, código ultilizado no arduino e um video demonstrando o funcionamento do projeto.
